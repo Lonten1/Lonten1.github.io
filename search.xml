@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2021/12/01/web-dao-hang-lan/"/>
+      <url>/2021/12/01/web-dao-hang-lan/</url>
+      
+        <content type="html"><![CDATA[<p>WEB前端作业：普通导航栏</p><hr><hr><p>##导航栏代码：</p><pre class=" language-html"><code class="language-html"><span class="token comment" spellcheck="true">&lt;!--注意去掉注释符&lt;html>    &lt;head>        &lt;meta charset="utf-8">        &lt;title>导航栏&lt;/title>        &lt;style type="text/css">            #nav&amp;#123; &amp;#125;            ul&amp;#123;list-style-type: none;            margin-left:100px;  &amp;#125;         li &amp;#123;float: left;padding: 0;margin: 0;text-align: center;&amp;#125;        li a&amp;#123;color: #FFFFFF;        text-decoration: none;        display: block;         padding:5px 30px;        height: 40px;        width: 120px;        line-height: 40px;        text-align: center;        background-color: crimson;&amp;#125;        li a:hover&amp;#123;color: black;background: #7FFF00;width: 120px;height: 50px;&amp;#125;    &lt;/style>&lt;/head>&lt;body>    &lt;div id="nav">     &lt;ul>     &lt;li>&lt;a href="">HomePage&lt;/a>&lt;/li>     &lt;li>&lt;a href="">Div+CSS教程&lt;/a>&lt;/li>     &lt;li>&lt;a href="">CSS布局实例&lt;/a>&lt;/li>     &lt;li>&lt;a href="">CSS2.0教程 &lt;/a>&lt;/li>     &lt;li>&lt;a href="">CSS在线手册&lt;/a>&lt;/li>     &lt;li>&lt;a href="">Web标准&lt;/a>&lt;/li>     &lt;li>&lt;a href="">XHTML教程&lt;/a>&lt;/li>     &lt;/ul>     &lt;/div>&lt;/body>&lt;/html>--></span>  </code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>test</title>
+      <link href="/2021/12/01/test/"/>
+      <url>/2021/12/01/test/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2021/11/29/hello-world/"/>
       <url>/2021/11/29/hello-world/</url>

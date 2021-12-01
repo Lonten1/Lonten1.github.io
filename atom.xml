@@ -1,20 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Lonten&#39;s blog</title>
   
-  
+  <subtitle>我想与你共赴这人间劫难</subtitle>
   <link href="https://lonten1.github.io/atom.xml" rel="self"/>
   
   <link href="https://lonten1.github.io/"/>
-  <updated>2021-11-29T08:31:19.642Z</updated>
+  <updated>2021-12-01T13:28:53.488Z</updated>
   <id>https://lonten1.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>张龙腾</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://lonten1.github.io/2021/12/01/web-dao-hang-lan/"/>
+    <id>https://lonten1.github.io/2021/12/01/web-dao-hang-lan/</id>
+    <published>2021-12-01T12:39:06.901Z</published>
+    <updated>2021-12-01T13:28:53.488Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;WEB前端作业：普通导航栏&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;##导航栏代码：&lt;/p&gt;
+&lt;pre class=&quot; language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token comment&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://lonten1.github.io/2021/12/01/test/"/>
+    <id>https://lonten1.github.io/2021/12/01/test/</id>
+    <published>2021-12-01T12:13:20.000Z</published>
+    <updated>2021-12-01T13:24:54.020Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
