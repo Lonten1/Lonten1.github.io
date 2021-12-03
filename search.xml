@@ -4,26 +4,19 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2021/12/01/web-dao-hang-lan/"/>
-      <url>/2021/12/01/web-dao-hang-lan/</url>
+      <title>web作业：导航栏</title>
+      <link href="/2021/12/02/web-zuo-ye-dao-hang-lan/"/>
+      <url>/2021/12/02/web-zuo-ye-dao-hang-lan/</url>
       
-        <content type="html"><![CDATA[<p>WEB前端作业：普通导航栏</p><hr><hr><p>##导航栏代码：</p><pre class=" language-html"><code class="language-html"><span class="token comment" spellcheck="true">&lt;!--注意去掉注释符&lt;html>    &lt;head>        &lt;meta charset="utf-8">        &lt;title>导航栏&lt;/title>        &lt;style type="text/css">            #nav&amp;#123; &amp;#125;            ul&amp;#123;list-style-type: none;            margin-left:100px;  &amp;#125;         li &amp;#123;float: left;padding: 0;margin: 0;text-align: center;&amp;#125;        li a&amp;#123;color: #FFFFFF;        text-decoration: none;        display: block;         padding:5px 30px;        height: 40px;        width: 120px;        line-height: 40px;        text-align: center;        background-color: crimson;&amp;#125;        li a:hover&amp;#123;color: black;background: #7FFF00;width: 120px;height: 50px;&amp;#125;    &lt;/style>&lt;/head>&lt;body>    &lt;div id="nav">     &lt;ul>     &lt;li>&lt;a href="">HomePage&lt;/a>&lt;/li>     &lt;li>&lt;a href="">Div+CSS教程&lt;/a>&lt;/li>     &lt;li>&lt;a href="">CSS布局实例&lt;/a>&lt;/li>     &lt;li>&lt;a href="">CSS2.0教程 &lt;/a>&lt;/li>     &lt;li>&lt;a href="">CSS在线手册&lt;/a>&lt;/li>     &lt;li>&lt;a href="">Web标准&lt;/a>&lt;/li>     &lt;li>&lt;a href="">XHTML教程&lt;/a>&lt;/li>     &lt;/ul>     &lt;/div>&lt;/body>&lt;/html>--></span>  </code></pre>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/2021/12/01/test/"/>
-      <url>/2021/12/01/test/</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>WEB前端作业：普通导航栏</p><hr><p>#导航栏代码块：<code>&lt;html&gt;</code><br>    <code>&lt;head&gt;</code></p><pre><code>    &lt;meta charset=&quot;utf-8&quot;&gt;    &lt;title&gt;导航栏&lt;/title&gt;    &lt;style type=&quot;text/css&quot;&gt;        #nav&#123; &#125;        ul&#123;list-style-type: none;        margin-left:100px;  &#125;     li &#123;float: left;padding: 0;margin: 0;text-align: center;&#125;    li a&#123;color: #FFFFFF;    text-decoration: none;    display: block;     padding:5px 30px;    height: 40px;    width: 120px;    line-height: 40px;    text-align: center;    background-color: crimson;&#125;    li a:hover&#123;color: black;background: #7FFF00;width: 120px;height: 50px;&#125;&lt;/style&gt;&lt;/head&gt;&lt;body&gt;    &lt;div id=&quot;nav&quot;&gt;     &lt;ul&gt;    &lt;li&gt;&lt;a href=&quot;&quot;&gt;HomePage&lt;/a&gt;&lt;/li&gt;     &lt;li&gt;&lt;a href=&quot;&quot;&gt;Div+CSS教程&lt;/a&gt;&lt;/li&gt;     &lt;li&gt;&lt;a href=&quot;&quot;&gt;CSS布局实例&lt;/a&gt;&lt;/li&gt;     &lt;li&gt;&lt;a href=&quot;&quot;&gt;CSS2.0教程 &lt;/a&gt;&lt;/li&gt;     &lt;li&gt;&lt;a href=&quot;&quot;&gt;CSS在线手册&lt;/a&gt;&lt;/li&gt;     &lt;li&gt;&lt;a href=&quot;&quot;&gt;Web标准&lt;/a&gt;&lt;/li&gt;    &lt;li&gt;&lt;a href=&quot;&quot;&gt;XHTML教程&lt;/a&gt;&lt;/li&gt;     &lt;/ul&gt;     &lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</code></pre>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> -web前端 -html </tag>
+            
+        </tags>
       
     </entry>
     
@@ -37,6 +30,12 @@
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> hexo入门 </tag>
+            
+        </tags>
       
     </entry>
     
